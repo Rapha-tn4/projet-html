@@ -1,0 +1,36 @@
+
+
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+
+
+
+.section-hero{
+    background-image: url(asset-monochrome/bg-image-hero.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh; /* 100% de la haueur de l'écran */
+}
+
+.white{
+    color:white
+}
+
+.section-bg2{
+    background-image: url(asset-monochrome/bg-image-2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh; 
+}
+
+
+
+
+
+
+
+
+
+
