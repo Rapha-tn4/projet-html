@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Modak&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Rubik", sans-serif;
+}
+
 
 
 body {
@@ -30,6 +39,74 @@ body {
 
 
 
+.flex{
+    display:flex;
+    flex-wrap: wrap;
+
+}
+
+
+
+/* Txt */
+a {
+    text-decoration: none;
+}
+
+
+.gap-25{
+    gap: 25px;
+}
+
+
+
+
+
+.black{
+    color: black;
+}
+
+
+
+*/margin et padding*/
+
+.p40{
+    padding: 40px;
+
+}
+
+
+
+.justify-center{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.align-center{
+    align-items: center;
+}
+
+.w50{width:     50%;
+
+}
+
+.pad-left-30px{
+    padding: left 10px;
+}
+
+.padding-header{
+    padding: 5px 40px;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+
+.flex{
+    flex-wrap: wrap;
+    display: flex;
+}
 
 
 
